@@ -13,6 +13,8 @@ Sou tecnólogo em Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://www.facebook.com/josecarlos.vendrame" target="_blank">
-    <img width="100" src="https://cdn.pixabay.com/photo/2013/01/29/22/06/facebook-76658_960_720.png">
+    <img width="50" src="https://cdn-icons-png.flaticon.com/128/174/174848.png">
   </a>
+  <a href="https://www.linkedin.com/in/jcvendrame/" target="_blank">
+    <img width="50" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1656116389~hmac=0f49c6cd84f2dd0ecaebe7cc1e07985a">
 </div>
