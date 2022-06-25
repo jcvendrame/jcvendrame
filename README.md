@@ -17,4 +17,5 @@ Sou tecnólogo em Análise e Desenvolvimento de Sistemas
   </a>
   <a href="https://www.linkedin.com/in/jcvendrame/" target="_blank">
     <img width="50" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1656116389~hmac=0f49c6cd84f2dd0ecaebe7cc1e07985a">
+  </a>
 </div>
